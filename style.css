@@ -82,7 +82,7 @@ ul{
 
 @media (max-width: 500px){
 	#Content{
-		width: 400px auto;
+		width: 400px;
 	}
 }
 
